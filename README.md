@@ -9,20 +9,20 @@ A project based on fetching Github user information and making a contact in Fres
 FRESHDESK_TOKEN=<insert your freshdesk token here>
 GITHUB_TOKEN=<insert your github token here>
 ```
-4) You can/should insert your Github and Freshdesk tokens for a more secure/authorized requeting (and more requests of course).
-5) If you have downloaded the whole file (with the PDF) run : 
+3) You can/should insert your Github and Freshdesk tokens for a more secure/authorized requeting (and more requests of course).
+*4) If you have downloaded the whole file (with the PDF) run (or just open CraftDemoNodeJs): 
 ```bash
 cd CraftDemoNodeJS
 ```
-7) Download the packages/node modules using the command : 
+5) Download the packages/node modules using the command : 
 ```bash
 npm i
 ```
-7) You can run the unit tests using :
+6) You can run the unit tests using :
 ```bash
 npx jest
 ```
-8) You can run the program with : 
+7) You can run the program with : 
 ```bash
 node src/ContactSync.js <somebodys_github_username> <your_freshdesk_domain> 
 ```
