@@ -24,10 +24,11 @@ npx jest
 ```
 8) You can run the program with : 
 ```bash
-node src/index.js <somebodys_github_username> <your_freshdesk_domain>
+node src/index.js <somebodys_github_username> <your_freshdesk_domain> 
 ```
 - Note that not using proper tokens will result in error
 - Additional information/implementations is given in the PDF file (screenshots of running the program as well).
+- The input is only a github username and the domain is just the name of the domain for example : https://<your_github_domain>.freshdesk.com/a/contacts/filters/all
 - In case of help with running the program contact me rdxhada@gmail.com
 
 
