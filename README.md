@@ -28,7 +28,7 @@ node src/ContactSync.js <somebodys_github_username> <your_freshdesk_domain>
 ```
 - Note that not using proper tokens will result in error
 - Additional information/implementations is given in the PDF file (screenshots of running the program as well).
-- The input is only a github username and the domain is just the name of the domain for example : https://<your_github_domain>.freshdesk.com/a/contacts/filters/all
+- The input is only a github username and the domain is just the name of the domain for example : https://<your_freshdesk_domain>.freshdesk.com/a/contacts/filters/all
 - In case of help with running the program contact me rdxhada@gmail.com
 
 
