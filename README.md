@@ -6,7 +6,7 @@ A project based on fetching Github user information and making a contact in Fres
 1) Download the CraftDemoNodeJs file
 2) Create yourself a .env file with this information : 
 ```
-FRESHDESK_TOKEN=<insert you freshdesk token here>
+FRESHDESK_TOKEN=<insert your freshdesk token here>
 GITHUB_TOKEN=<insert your github token here>
 ```
 4) You can/should insert your Github and Freshdesk tokens for a more secure/authorized requeting (and more requests of course).
