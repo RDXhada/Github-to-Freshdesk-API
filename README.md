@@ -10,7 +10,7 @@ FRESHDESK_TOKEN=<insert your freshdesk token here>
 GITHUB_TOKEN=<insert your github token here>
 ```
 3) You can/should insert your Github and Freshdesk tokens for a more secure/authorized requeting (and more requests of course).
-*4) If you have downloaded the whole file (with the PDF) run (or just open CraftDemoNodeJs): 
+4)*(opt.)* If you have downloaded the whole file (with the PDF) run (or just open CraftDemoNodeJs): 
 ```bash
 cd CraftDemoNodeJS
 ```
