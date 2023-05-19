@@ -1,8 +1,8 @@
 # Github-to-Freshdesk-API
 A project based on fetching Github user information and making a contact in Freshdesk using REST API
 ## How to run the program : 
-! Note that you need to have Node JS installed (running the program) [in terminal]
-! Note that you need to have Jest installed (for unit testing)[in terminal] 
+! Note that you need to have Node JS installed (to run the program) [in terminal]
+! Note that you need to have Jest installed (for unit testing) [in terminal] 
 1) Download the CraftDemoNodeJs file
 2) Create yourself a .env file with this information : 
 ```
@@ -10,7 +10,7 @@ FRESHDESK_TOKEN=<insert your freshdesk token here>
 GITHUB_TOKEN=<insert your github token here>
 ```
 4) You can/should insert your Github and Freshdesk tokens for a more secure/authorized requeting (and more requests of course).
-5) If you have downloaded the whole file (witht the PDF) run : 
+5) If you have downloaded the whole file (with the PDF) run : 
 ```bash
 cd CraftDemoNodeJS
 ```
