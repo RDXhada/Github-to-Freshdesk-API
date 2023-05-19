@@ -27,7 +27,7 @@ npx jest
 node src/index.js <somebodys_github_username> <your_freshdesk_domain>
 ```
 - Note that not using proper tokens will result in error
-- Additional information/implementations is given in the PDF file
+- Additional information/implementations is given in the PDF file (screenshots of runnin the program as well).
 - In case of help with running the program contact me rdxhada@gmail.com
 
 
