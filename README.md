@@ -4,16 +4,25 @@ A project based on fetching Github user information and making a contact in Fres
 ! Note that you need to have Node JS installed (running the program) [in terminal]
 ! Note that you need to have Jest installed (for unit testing)[in terminal] 
 1) Download the CraftDemoNodeJs file
-2) There you will see a .env file, you can insert your Github and Freshdesk tokens for a more secure/authorized requeting (and more requests of course).
-3) Download the packages/modules using the command : 
+2) Create yourself a .env file with this information : 
+`
+FRESHDESK_TOKEN=<insert you freshdesk token here>
+GITHUB_TOKEN=<insert your github token here>
+`
+4) You can/should insert your Github and Freshdesk tokens for a more secure/authorized requeting (and more requests of course).
+5) If you have downloaded the whole file (witht the PDF) run : 
+```bash
+cd CraftDemoNodeJS
+```
+7) Download the packages/modules using the command : 
 ```bash
 npm i
 ```
-4) You can run the unit tests using :
+7) You can run the unit tests using :
 ```bash
 npx jest
 ```
-5) You can run the program with : 
+8) You can run the program with : 
 ```bash
 node src/index.js <somebodys_github_username> <your_freshdesk_domain>
 ```
