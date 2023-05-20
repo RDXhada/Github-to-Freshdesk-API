@@ -24,10 +24,11 @@ npx jest
 ```
 7) You can run the program with : 
 ```bash
-node src/ContactSync.js <somebodys_github_username> <your_freshdesk_domain> 
+node src/RunApp.js <somebodys_github_username> <your_freshdesk_domain> 
 ```
-- Note that not using proper tokens will result in error
+- Note that not using proper tokens will result in error, so they need to be valid 
 - Note that not using proper SPACING when calling node src/ContactSync.js <somebodys_github_username> <your_freshdesk_domain> can result in errors
+- Note that running the node <github_user> <domain> command immediately again will/might result in error because the contact takes time to be created
 - Additional information/implementations is given in the PDF file (screenshots of running the program as well).
 - The input is only a github username and the domain is just the name of the domain for example : https://<your_freshdesk_domain>.freshdesk.com/a/contacts/filters/all
 - In case of help with running the program contact me rdxhada@gmail.com
