@@ -9,7 +9,7 @@ A project based on fetching Github user information and making a contact in Fres
 FRESHDESK_TOKEN=insert_your_freshdesk_token_here
 GITHUB_TOKEN=insert_your_github_token_here
 ```
-3) You can/should insert your Github and Freshdesk tokens for a more secure/authorized requeting (and more requests of course).
+3) You can/should insert your Github and Freshdesk tokens for a more secure/authorized requesting (and more requests of course).
 4) *(opt.)* If you have downloaded the whole file (with the PDF) run (or just open CraftDemoNodeJs): 
 ```bash
 cd CraftDemoNodeJS
